@@ -1,0 +1,46 @@
+{
+  "overview": "Genel Bakış",
+  "currency": "Para Birimi Ekle",
+  "status": "Emlak Durumu Ekle",
+  "type": "Emlak Türü Ekle",
+  "account": "Hesap",
+  "totalUsers": "Toplam Kullanıcı Sayısı",
+  "totalEstates": "Toplam İlan Sayısı",
+  "statusDistribution": "Mülk Durum Dağılımı",
+  "typecard": "Emlak Türü",
+  "statuscard": "Emlak Durumu",
+  "startdate": "Başlangıç Tarihi",
+  "enddate": "Bitiş Tarihi",
+  "currencycard": "Fiyat",
+  "typeSelect": "Tür Seçin",
+  "statusSelect": "Durum Seçin",
+  "all": "Tümü",
+  "unknownType": "Bilinmeyen Tip",
+  "unknownStatus": "Bilinmeyen Durum",
+  "noEstates": "Hiç emlak bulunamadı.",
+  "avaragePrice":"Ortalama Fiyat",
+  "login":"Giriş Yap",
+  "properties":"Mülklerim",
+  "action":"Kullanıcı İşlemlerim",
+  "signout":"Çıkış Yap",
+  "backHome":"Ana Sayfaya Dön",
+  "goDetail":"İlana Git",
+  "Gökdelen":"Gökdelen",
+   "Apartman":"Apartman",
+   "Villa":"Villa",
+   "Günlük Kiralık":"Günlük Kiralık",
+   "Satılık":"Satılık",
+   "Kiralık":"Kiralık",
+    "adminDashboard":"Admin Paneli",
+    "save":"Kaydet",
+    "update":"Güncelle",
+    "estate":"Emlak",
+    "emlakdurumları":"Emlak Durumları",
+    "tür":"Tür",
+    "tip":"Tip"
+
+
+
+
+
+}
